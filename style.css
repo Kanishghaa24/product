@@ -674,5 +674,11 @@ footer span {
     .checkout-box {
         padding: 20px;
     }
+/* PAGE NAVIGATION FIX */
 
+[hidden] {
+    display: none !important;
 }
+}/* PAGE NAVIGATION FIX */
+
+
